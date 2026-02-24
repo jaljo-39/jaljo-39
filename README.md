@@ -31,3 +31,15 @@ This repository documents my applied learning through:
 
 ## 🎯 Professional Direction
 I am intentionally developing a hybrid skill set — combining hands-on technical investigation with structured risk analysis — to contribute meaningfully to both security operations and governance initiatives.
+
+[View my full TryHackMe profile](https://tryhackme.com/p/jjones.5812) 
+## TryHackMe Stats (Updated Weekly)
+
+| Metric | Value |
+|--------|-------|
+| ⭐ Total Points | 1,234 |
+| 🏆 Completed Rooms | 9 |
+| 🥇 Badges Earned | 2 |
+| 📈 Rank | Top 45% |
+
+> *Note: Stats are updated manually weekly for accuracy.*
